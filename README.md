@@ -2,7 +2,7 @@
 
 ## Меня зовут Анна.
 
-## [] d-white-people-success-arrow-white-background-d-image-30238554.jpg
+## ![](../img/d-white-people-success-arrow-white-background-d-image-30238554.jpg)
 
 ## У меня высшее экономическое образование. И свою трудовую деятельность я начинала как бухгалтер.
 
